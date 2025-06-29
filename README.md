@@ -18,7 +18,7 @@ Key contributions:
 - Feature inputs include **spread Z-score**, and technical indicators (e.g., RSI, MACD, OBV)
 - Evaluation under multiple scenarios: with/without transaction costs
 
-## 📊 Results Summary
+## Results Summary
 
 - Best performance observed in **daily trading** scenarios with low transaction costs.
 - RL agent outperformed traditional fixed-threshold models and random baselines.
